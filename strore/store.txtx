@@ -1,0 +1,29 @@
+{
+    'user_id' : '1',
+    'data' : {
+        ["patrick","hello from firebase","723116674"],
+        ["patrick","hello from firebase","723116674"],
+        ["patrick","hello from firebase","723116674"],
+        ["patrick","hello from firebase","723116674"],
+        ["patrick","hello from firebase","723116674"],
+        ["patrick","hello from firebase","723116674"]
+    }
+}
+
+
+	const responseData = {
+	
+    user_id : '1',
+	data: [
+
+		["patrick", "hello from firebase", "723116674"],
+		["patrick","hello from firebase","723116674"],
+		["patrick","hello from firebase","723116674"],
+		["patrick","hello from firebase","723116674"],
+		["patrick","hello from firebase","723116674"],
+		["patrick","hello from firebase","723116674"]
+	]
+
+}
+
+http://localhost:5000/whatsapp-bot-b9fde/us-central1/helloWorld?data=
